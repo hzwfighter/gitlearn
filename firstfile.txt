@@ -1,3 +1,0 @@
-This is a first file for git!
-
-add
